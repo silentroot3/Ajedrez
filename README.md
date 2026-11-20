@@ -142,9 +142,3 @@ Esta versión implementa los movimientos básicos de cada pieza. Quedan como mej
 - Guardar y cargar partidas, o usar notación algebraica (`Nf3`, `O-O`).
 
 ---
-
-<div align="center">
-
-Hecho por **Erick Isaac Guzmán Paniagua**
-
-</div>
