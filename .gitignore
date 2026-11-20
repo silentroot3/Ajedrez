@@ -1,0 +1,14 @@
+# Clases compiladas
+*.class
+out/
+bin/
+build/
+
+# IntelliJ IDEA / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
